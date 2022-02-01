@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\bin\Debug\net6.0\Zadanie3-Zamiana.exe
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\bin\Debug\net6.0\Zadanie3-Zamiana.deps.json
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\bin\Debug\net6.0\Zadanie3-Zamiana.runtimeconfig.json
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\bin\Debug\net6.0\Zadanie3-Zamiana.dll
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\bin\Debug\net6.0\ref\Zadanie3-Zamiana.dll
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\bin\Debug\net6.0\Zadanie3-Zamiana.pdb
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\Zadanie3-Zamiana.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\Zadanie3-Zamiana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\Zadanie3-Zamiana.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\Zadanie3-Zamiana.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\Zadanie3-Zamiana.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\Zadanie3-Zamiana.dll
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\ref\Zadanie3-Zamiana.dll
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\Zadanie3-Zamiana.pdb
+C:\Users\Admin\source\repos\Zadanie3-Zamiana\Zadanie3-Zamiana\obj\Debug\net6.0\Zadanie3-Zamiana.genruntimeconfig.cache
